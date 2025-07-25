@@ -55,4 +55,4 @@ Conclusion
 This chatbot project demonstrates the integration of Python, NLP libraries (like NLTK), and simple machine learning concepts to create an intelligent virtual assistant. Using tools like Jupyter Notebook simplifies development and testing. The task reflects real-world needs for intelligent, automated interaction systems across industries ranging from education to healthcare, finance, and customer service.
 Let me know if you'd like a printable PDF version of this write-up.
 
-
+<img width="657" height="187" alt="Image" src="https://github.com/user-attachments/assets/c74c968f-35f4-40c3-a18d-f6bc1d2b79d2" />
